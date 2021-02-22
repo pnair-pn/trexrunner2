@@ -1,2 +1,2 @@
-# trexrunner2
-trex runner 2
+# trex--1
+run trex
